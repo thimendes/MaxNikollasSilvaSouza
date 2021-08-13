@@ -1,7 +1,7 @@
 ### Olá! Eu sou Max Silva 🎩
 
 - 🔭 Trabalho com desenvolvimento FullStack
-- 👨‍💻 Praticando Frameworks
+- 👨‍💻 Aplicando Frameworks
 - 😄 Pronouns: Ele / He
  
 #### Meus contatos:
